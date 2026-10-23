@@ -169,7 +169,7 @@ data/
 حداقل ۴ فایل خواندنی در هر ژانر برای اجرای آزمایش کوچک اولیه لازم است؛ این تعداد برای نتیجه علمی قابل اتکا کافی نیست.
 
 <div dir="ltr" align="left">
-<img width="2416" height="1304" alt="image" src="https://github.com/user-attachments/assets/8f17e1e8-0ff7-4755-9190-fe0fd37c9881" />
+
 
 python src/genre_agent.py --data-dir data --snr-db 10
 
